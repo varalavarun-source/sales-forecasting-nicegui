@@ -2074,5 +2074,6 @@ ui.run(
     title="Sales Forecast Intelligence",
     host="0.0.0.0",
     port=PORT,
-    reload=False
+    reload=False,
+    show=False
 )

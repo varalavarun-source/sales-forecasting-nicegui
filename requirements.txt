@@ -1,4 +1,4 @@
-nicegui
+nicegui==3.16.0
 pandas
 numpy
 joblib
