@@ -1,0 +1,6 @@
+nicegui
+pandas
+numpy
+joblib
+xgboost
+openpyxl
